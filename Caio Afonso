@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sobre Mim - Caio</title>
-    <link rel="stylesheet" href="estilo.css">
+    <title>Meu Site</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link para o arquivo de estilo CSS -->
 </head>
 <body>
     <header>
-        <h1>Sobre Mim</h1>
+        <h1>Meu Site</h1>
         <nav>
             <ul>
                 <li><a href="index.html">Início</a></li>
@@ -21,20 +21,14 @@
     </header>
     <main>
         <section>
-            <h2>Sobre Mim</h2>
-            <img src="caio.jpg" alt="Foto de Caio">
-            <p>Olá, meu nome é Caio. Tenho 31 anos, sou casado e tenho um lindo filho chamado Lorenzo. Sou técnico em mecatrônica e fluente em português, inglês, espanhol e italiano.</p>
-            <p>Nos meus momentos de lazer, tenho diversos <a href="portfolio.html">hobbies</a>. Adoro tocar violão e violino, são atividades que me trazem paz e alegria. Também sou apaixonado por esportes, especialmente futebol, e gosto de aproveitar o tempo ao ar livre andando de bicicleta com meu filho.</p>
-            <!-- Você pode adicionar mais detalhes sobre você, se desejar -->
-        </section>
-        <section>
-            <h2>Portfólio</h2>
-            <img src="robotlab.jpg" alt="Foto do Robot Lab">
-            <p>Confira meu trabalho com instalação de robôs na <a href="https://robotlab.doosanrobotics.com/">Robot Lab</a>.</p>
+            <h2>Bem-vindo ao Meu Site!</h2>
+            <p>Esta é a página inicial do meu site. Aqui você encontrará informações sobre mim, minha formação, meu portfólio e como entrar em contato comigo.</p>
+            <p>Sinta-se à vontade para explorar os links do menu acima!</p>
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 Caio. Todos os direitos reservados.</p>
+        <p>&copy; 2024 Meu Site. Todos os direitos reservados.</p>
     </footer>
 </body>
 </html>
+
