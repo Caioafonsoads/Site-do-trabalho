@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.imagem-topo {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.conteudo {
+    padding: 20px;
+}
